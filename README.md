@@ -4,8 +4,8 @@
 Este projeto utiliza um modelo de Machine Learning baseado no algoritmo **Random Forest** para prever a qualidade de um produto com base em suas características químicas. O objetivo é construir um classificador eficiente para auxiliar na tomada de decisões relacionadas à qualidade do produto.
 
 ## Estrutura do Projeto
-- `MineQT.csv` - Base de dados utilizada para treinamento e teste.
-- `main.py` - Código principal que realiza o pré-processamento, treinamento e avaliação do modelo.
+- `WineQT.csv` - Base de dados utilizada para treinamento e teste.
+- `vinhos.ipynb` - Código principal que realiza o pré-processamento, treinamento e avaliação do modelo.
 
 ## Tecnologias Utilizadas
 - **Python**
